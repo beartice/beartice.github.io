@@ -9,10 +9,19 @@
     <lastBuildDate>Wed, 14 Oct 2020 00:00:00 +0000</lastBuildDate><atom:link href="http://beartice.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Haunting of Bly Manor</title>
-      <link>http://beartice.github.io/blog/my-first-post/</link>
+      <link>http://beartice.github.io/blog/bly-manor/</link>
       <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
       
-      <guid>http://beartice.github.io/blog/my-first-post/</guid>
+      <guid>http://beartice.github.io/blog/bly-manor/</guid>
+      <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Haunting of Hill House</title>
+      <link>http://beartice.github.io/blog/hill-house/</link>
+      <pubDate>Wed, 14 Oct 2020 00:00:00 +0000</pubDate>
+      
+      <guid>http://beartice.github.io/blog/hill-house/</guid>
       <description>&lt;p&gt;This article offers a sample of basic Markdown syntax that can be used in Hugo content files, also it shows whether basic HTML elements are decorated with CSS in a Hugo theme.&lt;/p&gt;</description>
     </item>
     
